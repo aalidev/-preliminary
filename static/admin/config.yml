@@ -1,8 +1,10 @@
 backend:
-  name: github
+  name: git-gateway
   repo: aalidev/preliminary
+
 media_folder: static/assets
 public_folder: assets
+
 collections:
   - name: blog
     label: Blog
